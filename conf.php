@@ -9,6 +9,7 @@ date_default_timezone_set('Asia/Amman'); // you can change it to your country fr
 define('SITE_LINK',  'http://'.$_SERVER['HTTP_HOST'].'/fw-demo/'); // your site make sure in the last add /
 
 
+//test code 12
 /*Dot edit any line after this comment! */
 error_reporting(E_ERROR | E_WARNING | E_PARSE);
 
