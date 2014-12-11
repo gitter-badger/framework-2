@@ -1,6 +1,8 @@
 إطار عمل صفحتي للغة بي أتش بي 
 =========
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/sfhati/framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 إطار عمل صفحتي فيه مزايا كثيره منها 
 - المكتبات الجاهزه لفلترة المتغيرات والتحقق من سلامتها  
 - قواعد البيانات ونظام الأرشفة والكاش  
